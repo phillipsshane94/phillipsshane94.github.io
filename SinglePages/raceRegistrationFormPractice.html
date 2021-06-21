@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Race Registration</title>
+</head>
+
+<!-- First form project -->
+
+<body>
+
+    <h1>Race Registration!</h1>
+
+    <form action="/register">
+
+        <div>
+            <label for="first">First Name</label>
+            <input type="text" id="first" name="first" required>
+            <label for="last">Last Name</label>
+            <input type="text" id="last" name="last" required>
+        </div>
+
+        <p>Select a Race:</p>
+
+
+        <div>
+            <p>
+                <input type="radio" id="fivek" name="race" value="fivek">
+                <label for="fivek">Fun Run 5k</label>
+                <br>
+                <input type="radio" id="half" name="race" value="half">
+                <label for="half">Half Marathon</label>
+                <br>
+                <input type="radio" id="full" name="race" value="full">
+                <label for="full">Full Marathon</label>
+            </p>
+            <!-- Name links all of the radio buttons together -->
+            <!-- id links the button and its label -->
+            <!-- value is what is actually sent with the form -->
+        </div>
+        <div>
+            <label for="email" required>Email</label>
+            <input type="email" name="email" id="email">
+            <label for="password" required>Password</label>
+            <input type="password" name="password" id="password">
+        </div>
+        <p>
+            <label for="age">Select Age Group</label>
+            <select name="age" id="age">
+                <option value="kids">Under 18</option>
+                <option value="youngAdults">18-30</option>
+                <option value="adults">30-50</option>
+                <option value="seniors">50+</option>
+            </select>
+        </p>
+
+        <button>Register!</button>
+
+    </form>
+
+</body>
+
+</html>
+<!-- Remember, the name attribute is important for actually sending the form data, ALWAYS include it -->
+<!-- alt+click to make multiple cursors -->
