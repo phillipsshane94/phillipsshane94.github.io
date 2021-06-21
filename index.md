@@ -1,8 +1,6 @@
 # Welcome to phillipsshane94's GitHub Pages
 
-Here are my various web projects that I've been doing as I learn HTML, CSS, Javascript, etc.
-
-**NOTE:** Please give the pages a minute or so to load the CSS.  For whatever reason, the CSS is not immediately applied to the page, but it will update after a bit. 
+Here are my various web projects that I've been doing as I learn HTML, CSS, Javascript, etc. 
 
 Here is a direct link to my github which has Google Foobar Challenges (I'd recommend looking at challenge 3) among some other things.  I'm currently learning Web Development so many of my updates will be front-end projects. 
 
