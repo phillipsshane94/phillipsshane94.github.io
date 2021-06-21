@@ -16,7 +16,7 @@ Here is a direct link to my github which has Google Foobar Challenges (I'd recom
 [Pricing Panel Site](https://htmlpreview.github.io/?https://github.com/phillipsshane94/WebDevLearning/blob/main/PricingPanelWebsite/index.html)
 
 
-<!---
+<!--
 You can use the [editor on GitHub](https://github.com/phillipsshane94/phillipsshane94.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
