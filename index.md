@@ -10,11 +10,11 @@ Here is a direct link to my github which has Google Foobar Challenges (I'd recom
 
 ## Individual Web Projects
 
-[Working with Forms](http://htmlpreview.github.io/?https://github.com/phillipsshane94/WebDevLearning/blob/main/forms.html)
+[Working with Forms]()
 
-[Run Registration](http://htmlpreview.github.io/?https://github.com/phillipsshane94/WebDevLearning/blob/main/raceRegistrationFormPractice.html)
+[Run Registration]()
 
-[Pricing Panel Site](https://htmlpreview.github.io/?https://github.com/phillipsshane94/WebDevLearning/blob/main/PricingPanelWebsite/index.html)
+[Pricing Panel Site](https://phillipsshane94.github.io/PricingPanelWebpage/index.html)
 
 
 
