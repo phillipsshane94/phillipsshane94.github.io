@@ -10,9 +10,9 @@ Here is a direct link to my github which has Google Foobar Challenges (I'd recom
 
 ## Individual Web Projects
 
-[Working with Forms]()
+[Working with Forms](https://phillipsshane94.github.io/SinglePages/forms.html)
 
-[Run Registration]()
+[Run Registration](https://phillipsshane94.github.io/SinglePages/raceRegistrationFormPractice.html)
 
 [Pricing Panel Site](https://phillipsshane94.github.io/PricingPanelWebpage/index.html)
 
