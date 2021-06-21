@@ -12,9 +12,9 @@ Here is a direct link to my github which has Google Foobar Challenges (I'd recom
 
 [Working with Forms](https://phillipsshane94.github.io/SinglePages/forms.html)
 
-[Run Registration](https://phillipsshane94.github.io/SinglePages/raceRegistrationFormPractice.html)
+[Run Registration Form](https://phillipsshane94.github.io/SinglePages/raceRegistrationFormPractice.html)
 
-[Pricing Panel Site](https://phillipsshane94.github.io/PricingPanelWebpage/index.html)
+[FlexBox and Responsive Design Practice](https://phillipsshane94.github.io/PricingPanelWebpage/index.html)
 
 
 
