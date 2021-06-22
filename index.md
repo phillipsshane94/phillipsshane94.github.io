@@ -14,5 +14,5 @@ Here is a direct link to my github which has Google Foobar Challenges (I'd recom
 
 [FlexBox and Responsive Design Practice](https://phillipsshane94.github.io/PricingPanelWebpage/index.html)
 
-[Bootstrap and CSS Practice](https://phillipsshane94/phillipsshane94.github.io/MuseumOfCandyWebpage/index.html)
+[Bootstrap and CSS Practice](https://phillipsshane94.github.io/MuseumOfCandyWebpage/index.html)
 
