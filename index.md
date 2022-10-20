@@ -1,8 +1,8 @@
 # Welcome to phillipsshane94's GitHub Pages
 
-Here are my various web projects that I've been doing as I learn HTML, CSS, Javascript, etc. 
+Here are some various projects that I've done; the backend api is much more recent than any of the frontend projects. 
 
-Here is a direct link to my github which has Google Foobar Challenges (I'd recommend looking at challenge 3) among some other things.  I'm currently learning Web Development so many of my updates will be front-end projects. 
+Here is a direct link to my github which has Google Foobar Challenges (I'd recommend looking at challenge 3) among some other things.
 
 [Direct Github Link](https://github.com/phillipsshane94)
 
