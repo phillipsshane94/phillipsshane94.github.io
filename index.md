@@ -10,7 +10,7 @@ Here are some various projects that I've done and a direct link to my github.
 
 ## Code Challenges
 
-[Google foobar Challenge 3](https://github.com/phillipsshane94/GoogleFoobarChallenges/blob/main/JavaChallenge3.java)
+[Google Foobar Challenge 3](https://github.com/phillipsshane94/GoogleFoobarChallenges/blob/main/JavaChallenge3.java)
 
 [Google Foobar Challenge 2](https://github.com/phillipsshane94/GoogleFoobarChallenges/blob/main/foobarChallenge2.java)
 
