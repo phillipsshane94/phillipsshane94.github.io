@@ -1,6 +1,6 @@
 # Welcome to phillipsshane94's GitHub Pages
 
-Here are some various projects that I've done; the backend api is much more recent than any of the frontend projects. 
+Here are some various projects that I've done and a direct link to my github.
 
 [Direct Github Link](https://github.com/phillipsshane94)
 
@@ -15,6 +15,7 @@ Here are some various projects that I've done; the backend api is much more rece
 [Google Foobar Challenge 2](https://github.com/phillipsshane94/GoogleFoobarChallenges/blob/main/foobarChallenge2.java)
 
 ## Individual Web Projects
+Note--any links in these do not go anywhere; these were purely for learning different aspects of web design.  
 
 [FlexBox and Responsive Design Practice](https://phillipsshane94.github.io/PricingPanelWebpage/index.html)
 
