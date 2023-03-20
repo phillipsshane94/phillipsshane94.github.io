@@ -1,4 +1,3 @@
-# Welcome to phillipsshane94's GitHub Pages
 
 Here are some various projects that I've done and a direct link to my github.
 
